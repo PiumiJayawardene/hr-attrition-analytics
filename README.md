@@ -30,8 +30,8 @@ and an interactive Power BI dashboard for HR leadership.
 5. Sales Representatives: 39.8% attrition — critically high
 
 ## Dashboard Preview
-![HR Dashboard](dashboards/screenshots/hr_dashboard.png)
-![HR Dashboard](dashboards/screenshots/hr_dashboard2.png)
+![HR Dashboard](dashboards/screenshots/dashboard_overview_page1.png)
+![HR Dashboard](dashboards/screenshots/dashboard_department_analysis_page2.png)
 
 ## Project Structure
 ```
