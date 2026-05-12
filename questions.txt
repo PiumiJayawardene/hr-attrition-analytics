@@ -1,0 +1,5 @@
+1. What is the overall attrition rate? Which departments are worst affected?
+2. Does overtime work correlate with higher attrition?
+3. Which job roles have the highest attrition rates?
+4. Is monthly income significantly different between employees who left vs stayed?
+5. Does job satisfaction and work-life balance predict attrition?
